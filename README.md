@@ -4,8 +4,14 @@ Welcome to **TCP Chat-Hub**! This project creates 1 server and can be connected 
 
 ## 📜 Table of Contents
 
+- [Preview](#-preview)
 - [Features](#-features)
 - [Usage](#-usage)
+
+## 📷 Preview
+
+How a session looks with 2 clients connected to the server.
+![Console Output](misc/console_preview.png)
 
 ## ✨ Features
 
